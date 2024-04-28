@@ -1,0 +1,19 @@
+data;importo;codice;descrizione
+2022-01-24;1000;AS;Stipendio gennaio
+2022-01-28;-250;BA;Riscaldamento rata 3
+2022-02-01;-300;PC;Prelievo bancomat 101
+2022-02-25;1000;AS;Stipendio febbraio
+2022-03-02;-50;PB;Pagobancomat Ikea
+2022-03-25;-250;BA;Riscaldamento rata 4
+2022-03-28;1000;AS;Stipendio marzo
+2022-04-11;-300;PC;Prelievo bancomat 101
+2022-03-27;1000;AS;Stipendio aprile
+2022-05-11;-520;BA;Condominio rata 1
+2022-05-12;-30;PB;Pagobancomat Farmacia Rossi
+2022-05-25;1000;AS;Stipendio maggio
+2022-06-05;250;VS;Versamento
+2022-06-13;620;BD;Saldo collaborazione
+2022-06-27;1000;AS;Stipendio giugno
+2022-07-10;-500;PC;Prelievo bancomat 91
+2022-07-24;1000;AS;Stipendio luglio
+2022-08-06;-150;PC;Prelievo bancomat 126
