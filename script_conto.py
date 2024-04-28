@@ -2,7 +2,7 @@ from pyspark.sql import SparkSession
 spark=SparkSession.builder \
           .appName('EsempioSQL') \
           .getOrCreate()
-df=spark.read.csv('dati/conto.csv', header=True, sep=';', inferSchema=True)
+df=spark.read.csv('dati-script/conto.csv', header=True, sep=';', inferSchema=True)
 df.createOrReplaceTempView('conto')
 risultato=spark.sql("SELECT * FROM conto WHERE codice='BA'")
 risultato.write.json("query_json")
