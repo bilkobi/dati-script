@@ -1,0 +1,40 @@
+Numeri estratti: [2, 47, 7, 22, 71, 76, 45, 90, 35, 39]
+Schedina giocata: [62, 73, 76, 28, 74, 70, 29, 84, 1, 45]
+2 numeri indovinati: {76, 45}
+------------------------------
+Numeri estratti: [17, 44, 43, 2, 53, 40, 5, 64, 18, 14]
+Schedina giocata: [71, 24, 13, 85, 16, 36, 3, 43, 87, 52]
+1 numeri indovinati: {43}
+------------------------------
+Numeri estratti: [20, 46, 53, 62, 71, 60, 8, 74, 1, 59]
+Schedina giocata: [79, 47, 16, 88, 52, 51, 1, 74, 72, 76]
+2 numeri indovinati: {1, 74}
+------------------------------
+Numeri estratti: [12, 53, 89, 68, 73, 79, 50, 64, 5, 3]
+Schedina giocata: [80, 42, 67, 48, 19, 57, 39, 53, 79, 51]
+2 numeri indovinati: {53, 79}
+------------------------------
+Numeri estratti: [53, 29, 20, 57, 2, 5, 25, 30, 6, 31]
+Schedina giocata: [67, 63, 18, 26, 32, 49, 75, 8, 45, 40]
+0 numeri indovinati: set()
+------------------------------
+Numeri estratti: [27, 86, 80, 40, 83, 67, 77, 70, 71, 43]
+Schedina giocata: [84, 68, 89, 41, 7, 9, 64, 42, 80, 11]
+1 numeri indovinati: {80}
+------------------------------
+Numeri estratti: [41, 36, 20, 8, 40, 25, 57, 90, 26, 69]
+Schedina giocata: [38, 71, 26, 88, 53, 27, 14, 58, 69, 61]
+2 numeri indovinati: {26, 69}
+------------------------------
+Numeri estratti: [75, 68, 73, 82, 3, 8, 20, 28, 54, 60]
+Schedina giocata: [29, 55, 28, 90, 88, 77, 48, 44, 56, 21]
+1 numeri indovinati: {28}
+------------------------------
+Numeri estratti: [6, 28, 42, 9, 63, 84, 54, 68, 17, 43]
+Schedina giocata: [27, 20, 87, 71, 28, 37, 5, 47, 7, 3]
+1 numeri indovinati: {28}
+------------------------------
+Numeri estratti: [73, 52, 30, 53, 31, 18, 60, 88, 41, 63]
+Schedina giocata: [22, 46, 85, 15, 84, 32, 64, 76, 79, 87]
+0 numeri indovinati: set()
+------------------------------
